@@ -1,0 +1,4 @@
+---> This is an applet for the Contact List Management System.
+---> Works fine on the Applet Viewer in Eclipse.
+---> Currently, it does not run on the browser.
+---> Needs to be modified to run on browser.

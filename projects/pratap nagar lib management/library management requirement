@@ -1,0 +1,47 @@
+Lib. management
+ 1.admin
+ 2.user(student and faculty)
+ -----------------------------------------------
+ 1.admin
+     a.add a new book
+	    bookid,title,author,subject,category,publication,isbn,price,quantity
+	 b.search/update/delete a book(by bookid)
+	 c.search by
+	       title
+		   author
+		   category
+		   publisher
+	d.issue book
+	e.submit book
+	f.add a new user
+    g.search/update/delete any user
+	h.view account details
+	i.change self password
+2. user
+    a.view all books
+	b.search book by title or author or category or publisher
+	c.view self account
+	d.change password
+   
+--------------------------------------------------------------------------
+ Database designing
+   1.book
+       id,title,author,subject,category,publication,isbn,price,quantity
+   2.login
+         username,password,usertype
+   3.author 
+         id,name
+   4.subject
+        id,name
+   5.category
+        id,name
+   6.publication
+        id,name
+   7.issuebook
+   8.submitbook
+ 
+ 
+ 
+ 
+ 
+ 
