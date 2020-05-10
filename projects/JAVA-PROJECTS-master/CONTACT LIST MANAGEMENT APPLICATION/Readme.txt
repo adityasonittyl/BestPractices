@@ -1,0 +1,2 @@
+---> This is a JAVA Swing application for managing one's contact list.
+---> The contacts can be categorized and some specific relevant information added for each category.

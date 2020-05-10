@@ -1,0 +1,4 @@
+--->The course management system is a JAVA Swing Application created as part of Software Engineering Laboratory, Spring 2016.
+--->It has facilities for creating courses, creating student and faculty profiles, registering students to courses, alloting faculty to courses.
+--->The details can be edited and profiles may also be deleted from the system.
+--->Note however that courses which are more than 5 years old from the current date will be added to the system, but they won't be visible as available courses at the time of displayng all courses. There is also a constraint of maximum 5 students that can register for a course and maximum 5 faculty alloted to a course.

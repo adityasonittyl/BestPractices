@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Backup_8th_june/Java_Apis/activation.jar"/>
+	<classpathentry kind="lib" path="F:/Backup_8th_june/Java_Apis/Classifier4J-0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Backup_8th_june/Java_Apis/Classifier4J-Optional-0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Backup_8th_june/Java_Apis/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

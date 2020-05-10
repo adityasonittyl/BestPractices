@@ -1,0 +1,21 @@
+Procedure for running the project
+
+1.Install NetBeans Software in your System
+
+2.Create new project called FetchMail
+
+3.Create File name called mail2.java.
+
+4.Add the jar files into the library.
+
+5.Run the Project by holding Shift-F6.
+
+6.In the login form enter smtpserver ,login name, password.
+
+7.It display debug window.
+
+8.Read the messages by pressing YES,NO to diacard.
+
+9.It shows the messages in a panel specifying sender,site.
+
+10.This is our project.....
